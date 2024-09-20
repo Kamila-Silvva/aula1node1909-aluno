@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "aula1node1909",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamila-Silvva/ProgramacaoWeb_Ads.git"
+  },
+  "author": "Kamila S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamila-Silvva/ProgramacaoWeb_Ads/issues"
+  },
+  "homepage": "https://github.com/Kamila-Silvva/ProgramacaoWeb_Ads#readme",
+  "description": ""
+}

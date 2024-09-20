@@ -1,0 +1,16 @@
+O projeto fica disponível porém o usuário só podera ter acesso ao que está dentro da pasta pública 
+
+O node.js faz o link das estruturas 
+
+O node e chamado por meio de rotas
+
+npm - toda vez que o comando e usado no node.js é usado o npm
+
+Comando para inicializar - npm init 
+Criar nome do pacote 
+Versão
+Descrição 
+Entry point - beckend ligado 
+
+node "nome do arquvio js"
+
